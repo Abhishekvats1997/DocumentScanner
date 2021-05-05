@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 # Usage
 ```
-python3 page_extractor.py -i 'input/receipt.jpg'
+python3 page_extractor.py -i 'input/img1.png'
 ```
 
 
